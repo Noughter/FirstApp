@@ -6,14 +6,15 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>FirstPhonegap</name>
+    <name>FirstApp</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Erste Phonegap App.
+        Application that responds to the deviceready event.
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        Marvin
+    <author href="http://www.minecraft-mapmaking.de" email="marvin.ponten@gmx.de">
+        Marvin Ponten
     </author>
 
     <!--
